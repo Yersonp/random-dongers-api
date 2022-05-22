@@ -7,7 +7,7 @@ const dongers = require('./dongers.json');
 const port = process.env.PORT || 3000;
 
 app.listen(port, () => {
-  console.log("API online")
+  console.log("random dongers api online")
 })
 
 
